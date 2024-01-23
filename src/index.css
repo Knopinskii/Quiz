@@ -1,0 +1,6 @@
+:root {
+  background: #495057;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
